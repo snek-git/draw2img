@@ -1,3 +1,5 @@
 .DS_Store
 *.safetensors
 *.json
+flagged
+models

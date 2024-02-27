@@ -3,3 +3,6 @@ transformers
 gradio
 torch
 opencv-python
+io
+base64
+PIL
