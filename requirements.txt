@@ -1,8 +1,9 @@
 diffusers
 transformers
-gradio
+peft
+flask
+flask-cors
+gradio==3.41.2
 torch
-opencv-python
-io
-base64
-PIL
+accelerate
+pillow
