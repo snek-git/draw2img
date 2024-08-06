@@ -11,7 +11,7 @@
 
 1. Install required Python dependencies:
    ```
-   pip install torch diffusers transformers flask flask-cors gradio pillow
+   pip install -r requirements.txt
    ```
 
 2. Set up the models directory:
