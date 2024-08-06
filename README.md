@@ -1,15 +1,9 @@
 # draw2img
 
-A real-time AI-powered image generation tool that transforms sketches into detailed images based on text prompts.
-
-## Features
-
 - Canvas for drawing sketches
-- Real-time image generation using AI
+- Real-time image generation using Stable Diffusion 1.5 with LCM LoRA
 - Customizable brush color and size
 - Adjustable generation parameters (steps, CFG scale, strength)
-- Flask API for backend processing
-- Frontend built with HTML, CSS, and JavaScript
 
 ## Setup
 
