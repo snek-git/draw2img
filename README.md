@@ -80,11 +80,7 @@
 
 ## Note on Model Caching
 
-The `models` directory is used to cache downloaded AI models. This improves performance by:
-- Speeding up subsequent runs by avoiding re-downloads
-- Centralizing model storage to save disk space
-- Enabling potential offline use once models are cached
-
+The `models` directory is used to cache downloaded AI models. 
 First-time runs may take longer as models are downloaded and cached.
 
 ## Troubleshooting
